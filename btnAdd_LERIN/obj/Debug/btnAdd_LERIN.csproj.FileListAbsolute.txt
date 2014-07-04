@@ -1,0 +1,10 @@
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\bin\Debug\btnAdd_LERIN.exe.config
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.csprojResolveAssemblyReference.cache
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.frmMain.resources
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.Form2.resources
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.Properties.Resources.resources
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.csproj.GenerateResource.Cache
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\bin\Debug\btnAdd_LERIN.exe
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\bin\Debug\btnAdd_LERIN.pdb
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.exe
+C:\Users\gelenz\Desktop\btnAdd_LERIN\btnAdd_LERIN\obj\Debug\btnAdd_LERIN.pdb
